@@ -12,4 +12,6 @@
 
 ## Authors/Team
 
-
+git add <files>
+git commit -m <"name">
+git push origin 
